@@ -34,5 +34,5 @@ Run images loader
 Run fonts loader
 > npm run build:fonts
 
-Run video loader
-> npm run build:video
+Run videos loader
+> npm run build:videos
