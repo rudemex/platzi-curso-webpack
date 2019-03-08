@@ -8,28 +8,28 @@ Run Build
 > npm run build
 
 Run local
-> npm run build:local
+> $ npm run build:local
 
 Run External
-> npm run build:external
+> $ npm run build:external
 
 Run compile css
-> npm run build:css
+> $ npm run build:css
 
 Run extract css
-> npm run build:extract:css
+> $ npm run build:extract:css
 
 Run multiple entry points
-> npm run build:multi
+> $ npm run build:multi
 
 Run dev server
-> npm run build:dev
+> $ npm run build:dev
 
 Run babel
-> npm run build:babel
+> $ npm run build:babel
 
 Run images loader
-> npm run build:images
+> $ npm run build:images
 
 Run fonts loader
-> npm run build:fonts
+> $ npm run build:fonts
