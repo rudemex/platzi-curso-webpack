@@ -1,22 +1,18 @@
-@font-face {
+font-face {
     font-family: 'open_sansregular';
     src: url('./fonts/OpenSans-Regular-webfont.eot');
     src: url('./fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('./fonts/OpenSans-Regular-webfont.woff') format('woff'),
-         url('./fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
-         url('./fonts/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+         url('./fonts/OpenSans-Regular-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-
 }
 
-
 body {
-	font-family: 'open_sansregular';
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: lightblue;
+	background: lightblue url(./woonky-logo.gif) no-repeat top left;
 	height: 100vh;
 	margin: 0;
 	font-size: 40px;

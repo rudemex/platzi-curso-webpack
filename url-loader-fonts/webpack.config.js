@@ -2,7 +2,7 @@ const path = require('path');
 const extractTextPlugin = require('extract-text-webpack-plugin');
 
 module.exports = {
-  entry: ['babel-polyfill', path.resolve(__dirname, 'index.js')],
+  entry: ['babel-polyfill', path.resolve(__dirname, 'assets/js/index.js')],
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'js/bundle.js',
@@ -21,14 +21,14 @@ module.exports = {
         })
       },
       {
-        test: /\.(png|jpg|gif|woff|woff2|eot|ttf|svg)$/,
+        test: /\.(png|jpg|gif|woff|woff2|eot|ttf|svg)$/i,
         use:[
           {
             loader: 'url-loader',
             options: {
               limit: 5000000000,
               outputPath: './fonts',
-              publicPath: './fonts',
+              publicPath: '../fonts',
               name: '[hash].[ext]'
             }
           }
