@@ -1,4 +1,4 @@
-#Curso de Webpack por Platzi
+# Curso de Webpack por Platzi
 Curso completo de webpack dictado por platzi.
 
 #### Install dependencies
