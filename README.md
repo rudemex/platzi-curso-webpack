@@ -56,7 +56,12 @@ npm run build:images
 npm run build:fonts
 ```
 
-#### Run videos loader
+#### Run file loader
 ```sh
 npm run build:videos
+```
+
+#### Run JSON loader
+```sh
+npm run build:json
 ```
