@@ -22,7 +22,7 @@ module.exports = {
       },
       {
         test: /\.json$/i,
-        use:'json-loader'
+        loader:'json-loader'
       },
       {
         test: /\.(png|jpg|gif|woff|woff2|eot|ttf|svg)$/i,
