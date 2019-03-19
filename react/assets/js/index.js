@@ -4,6 +4,34 @@ import  logo from '../images/woonky-logo.gif';
 import data from './teachers.json';
 import renderToDom from './render-to-dom.js';
 
+import React, { component } from 'react';
+import { render } from 'react-dom';
+
+
+function Teacher(){
+	return(
+		<li className="Teacher">
+			{props.name}
+			<a href="{`https://twitter.com/${props.twitter}`}">{props.name}</a>
+		</li>
+	)
+}
+
+class Teachers extends Component {
+	render() {
+		return(
+			<ul className="Teachers">
+				{this.props.data.teachers.map( (teacherData)=>{
+					return <Teacher {...teacherData}/>
+				})
+				}
+			</ul>
+		)
+	}
+}
+
+render(<Teachers/>, document.getElementById())
+
 console.log(data);
 
 data.teachers.forEach( (teacher)=>{

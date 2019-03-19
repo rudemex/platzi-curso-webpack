@@ -65,3 +65,7 @@ npm run build:videos
 ```sh
 npm run build:json
 ```
+#### Run React
+```sh
+npm run build:react
+```
