@@ -4,7 +4,7 @@ import  logo from '../images/woonky-logo.gif';
 import data from './teachers.json';
 import renderToDom from './render-to-dom.js';
 
-import React, { component } from 'react';
+import React, { Component } from 'react';
 import { render } from 'react-dom';
 
 
@@ -18,13 +18,10 @@ function Teacher(){
 }
 
 class Teachers extends Component {
-	render() {
+	render(){
 		return(
 			<ul className="Teachers">
-				{this.props.data.teachers.map( (teacherData)=>{
-					return <Teacher {...teacherData}/>
-				})
-				}
+
 			</ul>
 		)
 	}
