@@ -4,30 +4,11 @@ import  logo from '../images/woonky-logo.gif';
 import data from './teachers.json';
 import renderToDom from './render-to-dom.js';
 
-import React, { Component } from 'react';
+import React from 'react';
 import { render } from 'react-dom';
+import Teachers from './components/teachers.js';
 
-
-function Teacher(){
-	return(
-		<li className="Teacher">
-			{props.name}
-			<a href="{`https://twitter.com/${props.twitter}`}">{props.name}</a>
-		</li>
-	)
-}
-
-class Teachers extends Component {
-	render(){
-		return(
-			<ul className="Teachers">
-
-			</ul>
-		)
-	}
-}
-
-render(<Teachers/>, document.getElementById())
+render(<Teachers data={data}/>, document.getElementById("container"));
 
 console.log(data);
 
