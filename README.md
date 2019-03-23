@@ -69,3 +69,8 @@ npm run build:json
 ```sh
 npm run build:react
 ```
+
+### Run Sass Loader with progress and watch
+```sh
+npm run build:sass -- --progress --watch
+```
