@@ -2,30 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bf450ba-fefa-4021-803e-888c0127896f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/less-loader/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/._woonky-logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/css/main.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/css/teacher.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/css/teachers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/fonts/OpenSans-Regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/images/woonky-logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/js/components/teacher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/js/components/teachers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/js/make-message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/js/message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/js/render-to-dom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/assets/js/teachers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/dist/bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/dist/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/dist/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/dist/js/bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less-loader/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/._woonky-logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/css/main.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/css/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/css/teacher.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/css/teachers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/fonts/OpenSans-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/images/woonky-logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/js/components/teacher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/js/components/teachers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/js/make-message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/js/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/js/render-to-dom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/assets/js/teachers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/dist/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/dist/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/dist/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/dist/js/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss-loader/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
@@ -45,12 +46,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="326">
-                <caret line="70" column="3" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
+              <first_editor relative-caret-position="108">
+                <caret line="73" selection-start-line="73" selection-end-line="73" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -60,17 +61,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            <state relative-caret-position="208">
+              <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/postcss-loader/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less-loader/assets/js/index.js">
+        <entry file="file://$PROJECT_DIR$/postcss-loader/assets/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state>
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -79,10 +88,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less-loader/assets/css/main.less">
+        <entry file="file://$PROJECT_DIR$/postcss-loader/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/postcss-loader/assets/css/postcss.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -108,11 +126,15 @@
         <option value="$PROJECT_DIR$/stylus-loader/assets/js/components/teacher.js" />
         <option value="$PROJECT_DIR$/stylus-loader/webpack.config.js" />
         <option value="$PROJECT_DIR$/stylus-loader/assets/css/teacher.styl" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/less-loader/webpack.config.js" />
         <option value="$PROJECT_DIR$/less-loader/assets/js/index.js" />
         <option value="$PROJECT_DIR$/less-loader/assets/css/main.less" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/postcss-loader/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/postcss-loader/assets/css/postcss.config.js" />
+        <option value="$PROJECT_DIR$/postcss-loader/postcss.config.js" />
+        <option value="$PROJECT_DIR$/postcss-loader/webpack.config.js" />
       </list>
     </option>
   </component>
@@ -141,7 +163,13 @@
             <path>
               <item name="platzi-curso-webpack" type="b2602c69:ProjectViewProjectNode" />
               <item name="platzi-curso-webpack" type="462c0819:PsiDirectoryNode" />
-              <item name="less-loader" type="462c0819:PsiDirectoryNode" />
+              <item name="postcss-loader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="platzi-curso-webpack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="platzi-curso-webpack" type="462c0819:PsiDirectoryNode" />
+              <item name="postcss-loader" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,12 +179,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/postcss-loader/assets/css" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mdelgado\Projects\React\webpack\platzi-curso-webpack\postcss-loader\assets\css" />
+      <recent name="C:\Users\mdelgado\Projects\React\webpack\platzi-curso-webpack\postcss-loader" />
       <recent name="C:\Users\mdelgado\Projects\React\webpack\platzi-curso-webpack\react\assets\js\components" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -207,7 +237,7 @@
       <workItem from="1553109053457" duration="6653000" />
       <workItem from="1553376910729" duration="2287000" />
       <workItem from="1553380798908" duration="225000" />
-      <workItem from="1553381042242" duration="7120000" />
+      <workItem from="1553381042242" duration="9264000" />
     </task>
     <task id="LOCAL-00001" summary="Add support with sass">
       <created>1553384983785</created>
@@ -220,7 +250,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17867000" />
+    <option name="totallyTimeSpent" value="20011000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,7 +280,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32991454" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.20854701" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" visible="true" weight="0.21709402" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" visible="true" weight="0.15897436" />
       <window_info anchor="right" id="Google Cloud Storage" />
       <window_info anchor="right" id="Json Parser" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -412,13 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less-loader/assets/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -435,17 +458,57 @@
     <entry file="file://$PROJECT_DIR$/less-loader/assets/css/main.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postcss-loader/dist/js/bundle.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postcss-loader/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postcss-loader/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="326">
-            <caret line="70" column="3" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
+          <first_editor relative-caret-position="108">
+            <caret line="73" selection-start-line="73" selection-end-line="73" selection-end-column="21" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postcss-loader/assets/css/postcss.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postcss-loader/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
         </state>
       </provider>
     </entry>

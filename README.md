@@ -69,3 +69,7 @@ npm run build:stylus -- --progress --watch
 ```sh
 npm run build:less -- -w
 ```
+### Run Post Css Loader with watch
+```sh
+npm run build:postcss -- -w
+```
