@@ -73,3 +73,7 @@ npm run build:less -- -w
 ```sh
 npm run build:postcss -- -w
 ```
+### Run Prevent duplication with watch
+```sh
+npm run build:prevent -- -w
+```
