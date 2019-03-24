@@ -74,3 +74,8 @@ npm run build:react
 ```sh
 npm run build:sass -- --progress --watch
 ```
+### Run Stylus Loader with progress and watch
+```sh
+npm run build:stylus -- --progress --watch
+```
+
