@@ -77,3 +77,7 @@ npm run build:postcss -- -w
 ```sh
 npm run build:prevent -- -w
 ```
+### Run generate Vendor
+```sh
+npm run build:vendor -- -w
+```

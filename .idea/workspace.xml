@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bf450ba-fefa-4021-803e-888c0127896f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vendor/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/._woonky-logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/css/main.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/css/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/css/teacher.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/css/teachers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/fonts/OpenSans-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/images/woonky-logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/js/components/teacher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/js/components/teachers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/js/make-message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/js/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/js/render-to-dom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/assets/js/teachers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/dist/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/dist/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/dist/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/dist/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/dist/js/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/dist/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/dist/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/dist/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,23 +50,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="209">
-                <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+              <first_editor relative-caret-position="301">
+                <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+            <state relative-caret-position="299">
+              <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -68,11 +117,13 @@
         <option value="$PROJECT_DIR$/postcss-loader/assets/css/postcss.config.js" />
         <option value="$PROJECT_DIR$/postcss-loader/postcss.config.js" />
         <option value="$PROJECT_DIR$/postcss-loader/webpack.config.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/prevent-duplication/assets/js/contact.js" />
         <option value="$PROJECT_DIR$/prevent-duplication/webpack.config.js" />
         <option value="$PROJECT_DIR$/prevent-duplication/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/vendor/webpack.config.js" />
+        <option value="$PROJECT_DIR$/vendor/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -101,20 +152,13 @@
             <path>
               <item name="platzi-curso-webpack" type="b2602c69:ProjectViewProjectNode" />
               <item name="platzi-curso-webpack" type="462c0819:PsiDirectoryNode" />
-              <item name="prevent-duplication" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="platzi-curso-webpack" type="b2602c69:ProjectViewProjectNode" />
               <item name="platzi-curso-webpack" type="462c0819:PsiDirectoryNode" />
-              <item name="prevent-duplication" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="platzi-curso-webpack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="platzi-curso-webpack" type="462c0819:PsiDirectoryNode" />
-              <item name="prevent-duplication" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,7 +226,7 @@
       <workItem from="1553109053457" duration="6653000" />
       <workItem from="1553376910729" duration="2287000" />
       <workItem from="1553380798908" duration="225000" />
-      <workItem from="1553381042242" duration="12194000" />
+      <workItem from="1553381042242" duration="14452000" />
     </task>
     <task id="LOCAL-00001" summary="Add support with sass">
       <created>1553384983785</created>
@@ -195,7 +239,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22941000" />
+    <option name="totallyTimeSpent" value="25199000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,7 +254,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.1709531" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.1709531" />
       <window_info id="Structure" order="1" sideWeight="0.5011547" side_tool="true" weight="0.13616072" />
       <window_info id="npm" order="2" sideWeight="0.5011547" side_tool="true" weight="0.13616072" />
       <window_info id="Favorites" order="3" sideWeight="0.5011547" side_tool="true" weight="0.13616072" />
@@ -225,7 +269,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32991454" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.20854701" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" visible="true" weight="0.25982907" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" visible="true" weight="0.25982907" />
       <window_info anchor="right" id="Google Cloud Storage" weight="0.32980332" />
       <window_info anchor="right" id="Json Parser" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -506,20 +550,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="209">
-            <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/vendor/dist/js/home.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+        <state relative-caret-position="299">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/dist/js/vendor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="301">
+            <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
