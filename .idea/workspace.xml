@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bf450ba-fefa-4021-803e-888c0127896f" name="Default Changelist" comment="" />
+    <list default="true" id="4bf450ba-fefa-4021-803e-888c0127896f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dll/webpack.dll.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/dll/webpack.dll.config.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -177,7 +179,7 @@
       <workItem from="1553109053457" duration="6653000" />
       <workItem from="1553376910729" duration="2287000" />
       <workItem from="1553380798908" duration="225000" />
-      <workItem from="1553381042242" duration="21534000" />
+      <workItem from="1553381042242" duration="21943000" />
     </task>
     <task id="LOCAL-00001" summary="Add support with sass">
       <created>1553384983785</created>
@@ -190,7 +192,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32281000" />
+    <option name="totallyTimeSpent" value="32690000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
