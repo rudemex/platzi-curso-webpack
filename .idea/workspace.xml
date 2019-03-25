@@ -42,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dll/webpack.dll.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="166">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding>
                 <element signature="e#553#2812#0" />
               </folding>
@@ -179,7 +179,7 @@
       <workItem from="1553109053457" duration="6653000" />
       <workItem from="1553376910729" duration="2287000" />
       <workItem from="1553380798908" duration="225000" />
-      <workItem from="1553381042242" duration="21943000" />
+      <workItem from="1553381042242" duration="22126000" />
     </task>
     <task id="LOCAL-00001" summary="Add support with sass">
       <created>1553384983785</created>
@@ -192,7 +192,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32690000" />
+    <option name="totallyTimeSpent" value="32873000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -222,7 +222,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32991454" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.20854701" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" visible="true" weight="0.23418804" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" visible="true" weight="0.22564103" />
       <window_info anchor="right" id="Google Cloud Storage" weight="0.32980332" />
       <window_info anchor="right" id="Json Parser" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -551,8 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dll/webpack.dll.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="166">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding>
             <element signature="e#553#2812#0" />
           </folding>
