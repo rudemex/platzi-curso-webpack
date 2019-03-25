@@ -81,3 +81,7 @@ npm run build:prevent -- -w
 ```sh
 npm run build:vendor -- -w
 ```
+### Run DLL
+```sh
+npm run build:dll -- -w
+```
