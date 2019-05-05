@@ -85,3 +85,7 @@ npm run build:vendor -- -w
 ```sh
 npm run build:dll -- -w
 ```
+### Run DLL SRC
+```sh
+npm run build:dll:src -- -w
+```
