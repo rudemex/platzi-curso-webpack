@@ -89,3 +89,7 @@ npm run build:dll -- -w
 ```sh
 npm run build:dll:src -- -w
 ```
+### Run Dynamic Imports
+```sh
+npm run build:dynamic
+```
